@@ -1,0 +1,30 @@
+#inc{
+    color: white;
+    border: 2px solid;
+    background-color: rgb(118, 238, 118);
+    font-weight: bolder;
+    font-size:25px;
+    border-radius: 100%;
+    height: 35px;
+    width: 35px;
+    /*text-align: center;*/
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+#dec{
+    color: white;
+    border: 2px solid;
+    background-color: rgb(193, 19, 19);
+    font-weight: bolder;
+    font-size:25px;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}

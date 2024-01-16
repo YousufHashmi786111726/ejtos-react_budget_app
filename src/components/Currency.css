@@ -1,0 +1,20 @@
+#CurrencyComp{
+    background-color: rgb(118, 238, 118);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+#Currency{
+    background-color: rgb(118, 238, 118);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+}
+option{
+    color: black;
+}
+option:checked{
+    background-color: white;
+    color: black;
+}
